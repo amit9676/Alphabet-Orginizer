@@ -1,0 +1,14 @@
+E:\visualstudio\miscellenius\alphabet\bin\Debug\alphabet.exe.config
+E:\visualstudio\miscellenius\alphabet\bin\Debug\alphabet.exe
+E:\visualstudio\miscellenius\alphabet\bin\Debug\alphabet.pdb
+E:\visualstudio\miscellenius\alphabet\obj\Debug\alphabet.csprojAssemblyReference.cache
+E:\visualstudio\miscellenius\alphabet\obj\Debug\alphabet.csproj.CoreCompileInputs.cache
+E:\visualstudio\miscellenius\alphabet\obj\Debug\alphabet.exe
+E:\visualstudio\miscellenius\alphabet\obj\Debug\alphabet.pdb
+F:\projects\alphabet\bin\Debug\alphabet.exe.config
+F:\projects\alphabet\bin\Debug\alphabet.exe
+F:\projects\alphabet\bin\Debug\alphabet.pdb
+F:\projects\alphabet\obj\Debug\alphabet.csprojAssemblyReference.cache
+F:\projects\alphabet\obj\Debug\alphabet.csproj.CoreCompileInputs.cache
+F:\projects\alphabet\obj\Debug\alphabet.exe
+F:\projects\alphabet\obj\Debug\alphabet.pdb
